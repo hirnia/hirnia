@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @hirnia (Megan Hirni)
+- 👋 Hi, I’m @hirnia (M.Hirni)
 - 👀 I’m interested in causal inference applications
 - 🌱 I’m currently learning HPC and C 
-- 💞️ I’m looking to collaborate on education, psychology and health related quantitative/mixed methods projects
 - 📫 How to reach me: mmcbride0731@gmail.com (personal) | mj.hirni@missouri.edu (university)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Me and my recliner go way back.
 
 <!---
