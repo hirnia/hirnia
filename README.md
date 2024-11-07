@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hirnia (M.Hirni)
-- 👀 I’m interested in causal inference applications
-- 🌱 I’m currently learning HPC and C 
-- 📫 How to reach me: mmcbride0731@gmail.com (personal) | mj.hirni@missouri.edu (university)
-- ⚡ Fun fact: Me and my recliner go way back.
+- Hi, I’m @hirnia (M.Hirni)
+- I am a PhD student at the University of Missouri 
+- I am interested in causal inference applications
+- How to reach me: mmcbride0731@gmail.com (personal) | mj.hirni@missouri.edu (university)
 
 <!---
 hirnia/hirnia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
