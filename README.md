@@ -3,6 +3,7 @@
 - I am a PhD student at the University of Missouri 
 - I am interested in HPC and causal inference applications
 - How to reach me: mmcbride0731@gmail.com (personal) | mj.hirni@missouri.edu (university)
+- Profile Photo credits go to Xiuhan Chen @xiuxiumia! 
 
 <!---
 hirnia/hirnia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
