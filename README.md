@@ -6,6 +6,8 @@
 - Profile photo credits go to Xiuhan Chen @xiuxiumia! 
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/language-C-blue.svg)
+![C#](https://img.shields.io/badge/language-C%23-green.svg)
 
 <!---
 hirnia/hirnia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
