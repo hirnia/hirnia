@@ -1,6 +1,6 @@
 - Hi, I’m @hirnia (Megan Hirni), and pigeons are my favorite animal.
 - Currently working on `dda` package revisions with my doctoral advisor, Wolfgang Wiedermann—now on CRAN with dev version at: `wwiedermann/dda`.
-- How to reach me: mmcbride0731@gmail.com (personal) | mj.hirni@missouri.edu (university)
+- How to reach me: mjhirni@outlook.com (personal) | mj.hirni@missouri.edu (university)
 - Profile photo credits go to Xiuhan Chen @xiuxiumia! 
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)
